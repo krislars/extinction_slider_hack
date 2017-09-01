@@ -1,0 +1,14 @@
+Band	lambda_eff(um)	dlambda(um)	ZeropointFlux(Wm^-2um^-1)	Reference
+U	0.36	0.06	4.175E-8	Bessell90,Bessell98
+B	0.438	0.09	6.320E-8	Bessell90,Bessell98
+V	0.545	0.085	3.631E-8	Bessell90,Bessell98
+R	0.641	0.15	2.177E-8	Bessell90,Bessell98
+I	0.798	0.15	1.126E-8	Bessell90,Bessell98
+J	1.235	0.162	3.129E-9	Cohen2003
+H	1.662	0.251	1.133E-9	Cohen2003
+K	2.159	0.262	4.283E-10	Cohen2003
+u	0.356	0.046	8.595E-8	Fukugita96
+g	0.483	0.099	4.669E-8	Fukugita96
+r	0.626	0.096	2.780E-8	Fukugita96
+i	0.767	0.106	1.852E-8	Fukugita96
+z	0.910	0.125	1.315E-8	Fukugita96
